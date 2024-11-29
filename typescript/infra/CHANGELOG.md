@@ -1,5 +1,20 @@
 # @hyperlane-xyz/infra
 
+## 7.3.0
+
+### Minor Changes
+
+- 1ca857451: add USDC, USDT, cbBTC and ETH zeronetwork warp routes support in infra
+
+### Patch Changes
+
+- Updated dependencies [24784af95]
+- Updated dependencies [ff9e8a72b]
+- Updated dependencies [61157097b]
+  - @hyperlane-xyz/sdk@7.3.0
+  - @hyperlane-xyz/helloworld@7.3.0
+  - @hyperlane-xyz/utils@7.3.0
+
 ## 7.2.0
 
 ### Patch Changes

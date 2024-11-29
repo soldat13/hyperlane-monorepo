@@ -1,5 +1,18 @@
 # @hyperlane-xyz/sdk
 
+## 7.3.0
+
+### Minor Changes
+
+- 24784af95: Introduce GcpValidator for retrieving announcements, checkpoints and metadata for a Validator posting to a GCP bucket. Uses GcpStorageWrapper for bucket operations.
+- ff9e8a72b: Added a getter to derive ATA payer accounts on Sealevel warp routes
+- 61157097b: Deploy to swell & lumiaprism. Parallelise router enrollment in HyperlaneRouterDeployer.
+
+### Patch Changes
+
+- @hyperlane-xyz/utils@7.3.0
+- @hyperlane-xyz/core@5.8.3
+
 ## 7.2.0
 
 ### Minor Changes
